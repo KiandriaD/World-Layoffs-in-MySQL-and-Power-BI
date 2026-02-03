@@ -85,7 +85,7 @@ This included:
 
 ## 🧑‍💻 Author
 
-Kiandria
+Kiandria Davis
 
 ## 📌 Portfolio Note
 This project is part of my data analytics portfolio and I want to showcase my ability to turn raw data into a correct and clean format and into insightful visualizations.
