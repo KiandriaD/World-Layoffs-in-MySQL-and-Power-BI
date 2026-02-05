@@ -18,7 +18,7 @@ The dashboard and SQL queries were designed to answer the following key question
 
 * [How many total layoffs were there for each industry?](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/totallayoffs.sql)
 * [Which industries had the highest average layoffs?](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/highavglayoffs.sql)
-* [What FIVE countries had the most layoffs overall?](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/totallayoffs.sql)
+* [What FIVE countries had the most layoffs overall?](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/topfivelayoffscountry.sql))
 
 
   
