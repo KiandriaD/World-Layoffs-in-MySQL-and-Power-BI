@@ -4,7 +4,7 @@
 
 This project analyzes global layoff trends using MySQL for data cleaning and analysis and Power BI for visualizations.
 The goal is to identify which countries and industries were most impacted by layoffs and to present those insights in an interactive dashboard.
-The raw dataset was downloaded from Kaggle.com
+The raw dataset was downloaded from [Kaggle.com](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
 
 The final Power BI dashboard includes KPIs and charts that are easy to understand at a glance.
 
