@@ -8,23 +8,19 @@ The raw dataset was downloaded from [Kaggle.com](https://www.kaggle.com/datasets
 
 The final Power BI dashboard includes KPIs and charts that are easy to understand at a glance.
 
+* [World Layoffs Dashboard](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/worldlayoffsdashboard.pbix)
+* [World Layoffs Cleaning in SQL Workbench](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/worldlayoffcleaning.sql)
+* [World Layoffs Raw Data](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/layoffs.csv)
+
 ## ❓ Business Questions Answered
 
 The dashboard and SQL queries were designed to answer the following key questions:
 
-* What FIVE countries had the most layoffs overall?
+* [Which industries have the highest layoffs?](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/totallayoffs.sql)
+* [Which industries had the highest average layoffs?](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/highavglayoffs.sql)
+* [What FIVE countries had the most layoffs overall?](https://github.com/KiandriaD/World-Layoffs-in-MySQL-and-Power-BI/blob/c1f9b1afb07f8fd3ad2e58dce0d3e9b4543d13a2/totallayoffs.sql)
 
-* Which industries had the highest average layoff percentage?
 
-* Which industries have the highest layoff severity?
-
-## 🧠 Definitions
-
-* Total Layoffs: The total number of companies or employees affected by layoffs.
-
-* Average Layoff : The average amount of a company’s workforce laid off within an industry.
-
-* Layoff Severity: How extreme layoffs were within all industries, measured using high averages.
   
 ## 🗄️ Data & Tools Used
 
